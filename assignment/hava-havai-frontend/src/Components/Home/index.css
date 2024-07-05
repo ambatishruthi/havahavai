@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.cursoR{cursor: pointer;}
+
+.border-Top{border-top: 1px solid white;}
+.Btn-Cursor{cursor: pointer;}
+.margin-Right{margin-right: 40px;}
+
+
